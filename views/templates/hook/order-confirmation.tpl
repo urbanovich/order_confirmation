@@ -1,0 +1,1 @@
+<div id="block-order-detail" class="unvisible">&nbsp;</div>
